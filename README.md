@@ -4,4 +4,4 @@ This is for my university assignment for course Software Engineering (Sections S
 ### Used language: <br />
 python 3.8 <br />
 ### Instruction: <br />
-To run the executable file from your windows pc just unzip the misses.exe.zip file and double click the misss.exe file.
+To run the executable file double click the misss.exe file.
