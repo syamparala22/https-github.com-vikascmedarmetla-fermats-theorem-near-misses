@@ -1,6 +1,8 @@
 #################################                   ###################################
 # Title : Looking for Fermat's Last Theorem Near Misses
-# Filename : hw1.py
+# Filename : misses.py
+# Necessary external files : none
+# created external files : misses.exe, a windows executable file of the program
 # Name: Vikas Chowdary Medarametla
 # Email: VikasChowdaryMedar@lewisu.edu
 # Course and Sections SU22-CPSC-60500-001 & 002
